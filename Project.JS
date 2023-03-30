@@ -7,6 +7,7 @@
 //6. If yes, give the user their winnings; if no, take their bet
 //7. Play again
 
+
 //STEP ONE: COLLECTING A DEPOSIT
 //We'll be using a function. Functions are reusable blocks of code that can be called to do something for you.
 
@@ -35,6 +36,7 @@ const deposit = () =>
     }
 
 }};
+
 
 //STEP TWO: DETERMINE THE NUMBER OF LINES TO BET ON
 
